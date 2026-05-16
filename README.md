@@ -3,7 +3,7 @@
 
 This Git repository contains the code we wrote in order to generate and conduct experiments necklace polynomials, as discussed in our paper:
 
-**[1]** Sunil Chebolu, Ján Mináč, Tung T. Nguyen, Nguyen Duy Tan *Monotonicity of necklace polynomials* (Preprint 2026).
+**[1]** Sunil Chebolu, Ján Mináč, Tung T. Nguyen, Nguyen Duy Tan *Analytic properties of necklace polynomials* (Preprint 2026).
 
 ## Description
 
